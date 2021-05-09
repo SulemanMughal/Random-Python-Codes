@@ -1,0 +1,13 @@
+word = "Hello"
+print("word = " ,word)
+print("word[4] = ", word[4] )
+print("word[:2]" , word[:2])
+print("word[2:4]", word[2:4])
+print(word[3:])
+print(word[:3])
+print(word[-1])
+print(word[-2])
+print(word[0])
+print(word[-2:])
+print(word[:-2])
+print(word[2:-2])
